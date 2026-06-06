@@ -66,3 +66,10 @@ Started: 2026-06-04
   - Compare the scanner value with the last saved unique value.
   - Do not set extra positions to `0`; LeetCode only checks the first returned `k` values.
   - Return the unique count, which is the last unique index plus one.
+
+### 6. Remove Element
+- Date: 2026-06-06
+- Status: Done
+- Core idea: Scan the array and keep only values that are not equal to `val` in the front part of the same array.
+- Important learning: The returned count `k` tells LeetCode how many front elements are valid; values after `k` do not matter.
+- Pattern: Use one pointer for scanning and one pointer for the next valid placement position.
