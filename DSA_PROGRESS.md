@@ -36,7 +36,7 @@ Started: 2026-06-04
 
 ### 3. Move Zeroes
 - Date: 2026-06-05
-- Status: Attempted
+- Status: Done
 - Core idea: Move all non-zero values forward while keeping their order, then zeroes should end up at the back.
 - Approach tried: Double loop to find the next non-zero after a zero and swap it forward.
 - Important learning: Swap only when `nums[i] == 0 && nums[j] != 0`, and use `break` after the swap because the current zero position has been fixed.
@@ -44,3 +44,25 @@ Started: 2026-06-04
   - Do not use `nums[j++]` as a statement; the loop already increments `j`.
   - `moveZeroes` is `void`, so call it first and print the array separately.
   - `System.out.println(nums)` prints the array reference; use `Arrays.toString(nums)` for local testing.
+
+### 4. Merge Sorted Array
+- Date: 2026-06-05
+- Status: In progress
+- Core idea: Fill `nums1` from the end using three pointers: `i = m - 1`, `j = n - 1`, and `p = m + n - 1`.
+- Important learning: Compare the largest remaining values and place the bigger one at `nums1[p]`, then move the used pointer backward.
+- Common mistakes noticed:
+  - Start real `nums1` pointer from `m - 1`, not `m`.
+  - Use `while (j >= 0)` so the `j = 0` element is also processed.
+  - Add `i >= 0` before reading `nums1[i]`.
+  - Keep `else` outside the `if` block and move `p--` after the `if/else`.
+
+### 5. Remove Duplicates from Sorted Array
+- Date: 2026-06-06
+- Status: In progress
+- Core idea: Since the array is sorted, duplicates stay next to each other. Keep one pointer at the last unique value and scan ahead for a different value.
+- Important learning: Move the unique-position pointer only when a different value is found, not when duplicates are found.
+- Common mistakes noticed:
+  - Declare pointers with `int`, like `int i = 0;`.
+  - Compare the scanner value with the last saved unique value.
+  - Do not set extra positions to `0`; LeetCode only checks the first returned `k` values.
+  - Return the unique count, which is the last unique index plus one.
