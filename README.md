@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
