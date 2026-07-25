@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
