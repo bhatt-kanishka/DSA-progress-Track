@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
