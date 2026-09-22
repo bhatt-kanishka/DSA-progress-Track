@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 ## Sliding Window
 |  |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
