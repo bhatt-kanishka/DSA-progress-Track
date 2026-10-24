@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
+| [2409-count-days-spent-together](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2409-count-days-spent-together](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
