@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
+| [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -142,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
