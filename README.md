@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
