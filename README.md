@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 | [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
