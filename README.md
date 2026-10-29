@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 | [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
