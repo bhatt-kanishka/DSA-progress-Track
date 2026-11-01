@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
+| [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -214,4 +215,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0933-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
