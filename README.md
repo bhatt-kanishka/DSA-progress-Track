@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0326-power-of-three) |
