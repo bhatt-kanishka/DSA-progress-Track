@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0739-daily-temperatures) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
 | [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
 ## Design
 |  |
