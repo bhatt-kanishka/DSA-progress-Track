@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0326-power-of-three) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
