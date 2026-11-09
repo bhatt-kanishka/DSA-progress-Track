@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0739-daily-temperatures) |
 | [1254-number-of-closed-islands](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
