@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
 | [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2409-count-days-spent-together) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Design
 |  |
 | ------- |
