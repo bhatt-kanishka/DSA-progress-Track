@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0326-power-of-three) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0089-gray-code) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/3370-smallest-number-with-all-set-bits) |
