@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
