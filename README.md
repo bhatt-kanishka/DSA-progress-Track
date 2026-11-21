@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0268-missing-number) |
+| [0403-frog-jump](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0403-frog-jump) |
 ## Stack
 |  |
 | ------- |
