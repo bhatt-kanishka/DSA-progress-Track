@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/0342-power-of-four) |
 | [1952-three-divisors](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bhatt-kanishka/DSA-progress-Track/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
